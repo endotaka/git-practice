@@ -2,5 +2,5 @@
 このリポジトリはGit動画講座用です．
 ローカルリポで変更
 conflictブランチで変更した。
-local-repoで更新
+rebase-practiceブランチで更新
 
