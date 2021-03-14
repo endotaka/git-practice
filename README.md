@@ -4,4 +4,4 @@
 conflictブランチで変更した。
 rebase-practiceブランチ
 rebase pull用
-stash練習（トラック済み）
+stash練習（second）
