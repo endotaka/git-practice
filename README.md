@@ -4,3 +4,4 @@
 conflictブランチで変更した。
 rebase-practiceブランチ
 rebase pull用
+stashコンフリクト用
